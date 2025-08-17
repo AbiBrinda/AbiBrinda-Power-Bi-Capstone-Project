@@ -19,6 +19,9 @@ Revenue Analysis
 
 Number of delayed orders in each category
 
+<img width="2352" height="1316" alt="image" src="https://github.com/user-attachments/assets/2efffbef-1b6d-4c83-bbb8-45d2d5c7c39f" />
+
+
 
 
 
