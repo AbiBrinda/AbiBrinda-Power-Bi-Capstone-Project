@@ -1,2 +1,2 @@
 # AbiBrinda-Power-Bi-Capstone-Project
-Shopnest Store Power Bi capstone Project
+Power Bi capstone Project
